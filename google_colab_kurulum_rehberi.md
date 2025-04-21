@@ -1,6 +1,7 @@
 # 📦 Gerekli Kütüphaneler (Google Colab için)
 
-Bu projeyi **Google Colab** üzerinde çalıştırmak istiyorsanız, aşağıdaki kütüphaneleri yüklemeniz gerekmektedir.  
+⚠️ Bu proje Google Colab ortamında geliştirilmiştir.
+Projeyi **Google Colab** üzerinde çalıştırmak istiyorsanız, aşağıdaki kütüphaneleri yüklemeniz gerekmektedir.  
 
 🔸 **UYARI:** Lütfen her komutu ayrı bir hücreye yazın. Google Colab’ın çalışma yapısı bu şekilde daha sağlıklı çalışacaktır.
 
