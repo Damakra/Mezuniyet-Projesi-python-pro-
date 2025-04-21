@@ -44,6 +44,6 @@ Bu proje ile bireylerin atıkları hakkında daha fazla bilgi edinmesini ve **ge
 3. Botu çalıştırın ve Discord sunucunuzda keyfini çıkarın!
 
 ## 🔐 Uyarı
-Lütfen kendi **Discord bot token'ınızı** `main.py` içinde `"bot token"` yazan yere yerleştirmeyi unutmayın. Token’ı kimseyle paylaşmayın.
+Lütfen kendi **Discord bot token'ınızı** `main.py` içinde `"BOT TOKEN"` yazan yere yerleştirmeyi unutmayın. Token’ı kimseyle paylaşmayın.
 
 ---
