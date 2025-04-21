@@ -2,6 +2,12 @@
 
 Bu proje, yapay zeka destekli bir Discord botudur. Kullanıcılardan gelen **resimleri analiz ederek**, görseldeki atığın **cam, kağıt veya plastik** olduğunu tahmin eder ve buna göre **geri dönüşüm ve değerlendirme önerileri** sunar. Hem çevre bilincini artırmak hem de eğlenceli bir deneyim sunmak amaçlanmıştır. 🌍
 
+# 📌 Bilgilendirme
+
+⚠️ Bu proje Google Colab ortamında geliştirilmiştir.
+Eğer siz de Google Colab kullanarak çalıştırmak isterseniz, proje dizininde yer alan google_colab_kurulum_rehberi.md dosyasını inceleyebilir ve gerekli pip komutlarını oradan alabilirsiniz.
+Böylece kurulum süreci çok daha hızlı ve sorunsuz ilerleyecektir.
+
 ## 🔧 Kullanılan Teknolojiler
 - **Python 3**
 - **TensorFlow & Keras**: Görsel sınıflandırma modeli
