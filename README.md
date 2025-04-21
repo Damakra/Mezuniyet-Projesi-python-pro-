@@ -5,7 +5,7 @@ Bu proje, yapay zeka destekli bir Discord botudur. Kullanıcılardan gelen **res
 # 📌 Bilgilendirme
 
 ⚠️ Bu proje Google Colab ortamında geliştirilmiştir.
-Eğer siz de Google Colab kullanarak çalıştırmak isterseniz, proje dizininde yer alan google_colab_kurulum_rehberi.md dosyasını inceleyebilir ve gerekli pip komutlarını oradan alabilirsiniz.
+Eğer siz de Google Colab kullanarak çalıştırmak isterseniz, proje dizininde yer alan `google_colab_kurulum_rehberi.md` dosyasını inceleyebilir ve gerekli pip komutlarını oradan alabilirsiniz.
 Böylece kurulum süreci çok daha hızlı ve sorunsuz ilerleyecektir.
 
 ## 🔧 Kullanılan Teknolojiler
